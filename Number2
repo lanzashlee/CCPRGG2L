@@ -6,7 +6,7 @@ import java.io.IOException;
 public class Number2 {
   public static void main(String[] args) throws IOException, FileNotFoundException{
 
-    try (BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\Z3m\\.vscode\\files\\question 2\\Question2\\dummy.txt"))) {
+    try (BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\HP\\Documents\\Number2\\Number2"))) {
       String text;
 
     int lineCount = 0;
