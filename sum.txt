@@ -1,1 +1,0 @@
-The sum of input file from data.txt is: 150
